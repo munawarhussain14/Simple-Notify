@@ -2,7 +2,10 @@
 notification plugin
 Easy to install to show notification on your web page
 Configuration 
-only link the notify.js file to your page then user
+
+Requirement JQuery
+
+link the notify.js file to your page then use
 
 Success
 
