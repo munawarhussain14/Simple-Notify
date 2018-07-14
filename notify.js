@@ -57,7 +57,7 @@ function notify()
         '</style>'
     );
     $("html").append(
-        '<div class="notify-area" style="border:1px solid black;"></div>'
+        '<div class="notify-area"></div>'
     );
 
 
